@@ -1,0 +1,46 @@
+ 
+INTERVIEW FORM
+
+CANDIDATE NAME	 Arghya Kusum Das	CONDUCTED BY	Raheem Lewis And Wyatt Bush
+INTERVIEW DATE	January 24th , 2024	INTERVIEW START TIME	3:50PM	INTERVIEW END TIME	 4:30PM
+
+DESCRIPTION OF PROJECT
+Consider the familiar login screen where a user begins access to a system. What atomic requirements can be generated?
+
+
+1. Understanding User Authentication: Can you describe the typical process you envision for a user logging into the system? What are the key steps and user interactions you expect during this process?
+Ans:
+
+
+
+
+
+ 2. Security Considerations: Regarding securing user data, particularly credentials like User IDs and Passwords, what are your primary concerns or requirements? How do you currently handle sensitive information in your existing systems?
+Ans:
+
+
+
+
+
+3. Handling Login Failures: How would you like the system to respond when a user fails to log in? Are there specific procedures or steps you envision for scenarios like repeated login failures or account lockouts?
+Ans:
+
+
+
+
+4. System Behavior and User Experience: What is your expectation regarding the system’s response time and behavior after a user login or if a login attempt fails? For instance, is there a specific timeframe in which the login screen should remain active or timeout?
+Ans:
+
+
+
+
+
+5. Related Functionalities and Integration: Apart from the basic login functionality, are there any related features or integrations (like user administration or password reset processes) that are important for your organization? Can you elaborate on how you see these integrating with the login process?
+Ans:
+
+
+
+6. Artistic Style: Apart from the technical aspects of the login requirements, how do you envision your screen to look? What color schemes do you want? Do you want a specific logo or login box style? Or do you want it to be minimalistic and basic?
+Ans:
+
+
