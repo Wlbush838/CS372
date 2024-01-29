@@ -1,0 +1,68 @@
+Name: Raheem Lewis And Wyatt Bush
+
+Feasibility Analysis: After you gather all the requirements now it is the time for feasibility analysis for the project.
+You need to analyze all the four different types of feasibility as shown below. 
+Assume the following to facilitate the process of feasibility analysis
+Assume use of Node.js and MongoDB is a requirement from the customer. 
+
+You also learned that the project needs to be finished in 10days. 
+
+1)	For technical feasibility, write a small paragraph explaining your current knowledge on Node.JS/MongoDB. 
+What are all the challenges/solutions are you suspecting?
+Ans: Node.js is a powerful JavaScript runtime that is known for its ability to handle asynchronous operations with a non-blocking I/O model. 
+It is ideal for building scalable server-side applications. When paired with MongoDB, a NoSQL database that is flexible in handling large 
+volumes of unstructured data with a schema-less design, it can be used to create robust applications. However, using Node.js and MongoDB 
+together can be challenging. Some of the challenges include designing efficient data structures in MongoDB's flexible schema, mastering 
+asynchronous programming in Node.js, and ensuring scalability and security in the application. These challenges can be addressed by using 
+effective data modeling in MongoDB, which can be achieved using tools like Mongoose for schema definition. It is also important to embrace
+modern JavaScript features like async/await to simplify asynchronous code in Node.js and to consider a microservices architecture for 
+scalability. Additionally, adhering to security best practices such as regular updates, secure database connections, and robust input
+validation is crucial to ensure application integrity.
+
+2)	For schedule feasibility, again write a small paragraph explaining your ideas. Is it possible to be productive by learning? 
+If you think it is not possible, can you finish it by hiring another extra developer with prior knowledge of these technologies?
+Ans: When it comes to schedule feasibility, the success of a project that uses Node.js and MongoDB technology greatly depends on 
+the proficiency level of the team handling these technologies. While learning on the job can be productive, it might slow down 
+the initial progress of the project as the team members climb the learning curve. This delay could be critical, especially when 
+the project timeline is tight. In such situations, it is advisable to hire an additional developer who has prior experience in 
+Node.js and MongoDB. An experienced developer can not only speed up development but also mentor other team members, 
+thereby enhancing the overall skill level of the team. This approach can effectively balance the need for immediate progress 
+with the long-term benefits of upskilling the team, ensuring both immediate and future project success.
+
+3)	For operational feasibility, write another short paragraph explaining whether you need training on all these topics. 
+Explain with the lowest cost Node.js training whatever you get in Udemy. 
+Ans: For operational feasibility, training is required depending on the current skill level of the team regarding Node.js and MongoDB. 
+If the team is relatively inexperienced with these technologies, training could be highly beneficial. It ensures that team members have
+a solid foundation and common understanding, which is crucial for the efficient development and maintenance of the project. 
+Udemy is an excellent resource for cost-effective training. It offers a wide range of courses on Node.js, often at a low cost,
+especially during sales or with coupons. These courses typically cover fundamental concepts and practical applications, 
+and sometimes even integrate MongoDB, providing a comprehensive learning experience. By investing in such affordable training, 
+the team can rapidly acquire the necessary skills, improving the project’s operational feasibility without incurring significant costs.
+
+4)	For economic feasibility, assume the following: 
+a.	The customer would like to spend no more than $30K USD.
+b.	You have 2 members in a group each of them needs to be paid at a rate of an average Node.js developer salary 
+($113K per year as shown in Google). You need to calculate the developer cost for 10 days.
+Ans: The cost for 2 Node.js developers for 10 days with an average annual salary of 113K is approximately $6,200. 
+c.	You have two different options for hardware. 
+i.	One is an AWS EC2 Linux instance with 4cores and 16GB memory where you need to pay a standard rate 
+(Check here for rates: https://calculator.aws/). 
+ii.	The other option is an Inhouse server of similar configuration (assume that costs $2000) and needs 
+an additional system admin whose average salary is $60k per year as shown in Google. 
+iii.	Calculate the total cost of ownership for 1 year for both the options and you need to select the lower-cost option
+for feasibility analysis. 
+d.	If the total cost is below the amount the customer is giving then, it is economically feasible. Otherwise not. 
+e.	**Remember, if you decide to hire an additional developer (to meet the schedule) you have to add that cost also 
+(assume that the developer will also get the payment at the same rate of $113K per year). Also, remember to add the training cost.
+Ans: The cost for two Node.js developers for a total of ten days is around $6,200. This estimate is calculated assuming 
+the developers have an average annual salary of $113k. Additionally, if you choose to run an AWS EC2 Linux instance with 
+4 cores and 16GB memory, the approximate annual cost is $1,600, assuming 24/7 operation. Conversely,
+if you opt for an in-house server with comparable specifications, the total annual cost, including a $2,000 server cost, 
+and a system administrator with a $60,000 annual salary, would be $62,000. Comparing the two hosting options, 
+the AWS EC2 instance is significantly more cost-effective. If you add the developer cost to the lower hosting cost (AWS EC2),
+the total cost comes to approximately $7,800. This is well below the customer's budget of $30,000, making the project 
+economically feasible under these assumptions.
+
+
+
+
