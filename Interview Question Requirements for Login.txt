@@ -2,45 +2,45 @@
 INTERVIEW FORM
 
 CANDIDATE NAME	 Arghya Kusum Das	CONDUCTED BY	Raheem Lewis And Wyatt Bush
-INTERVIEW DATE	January 24th , 2024	INTERVIEW START TIME	3:50PM	INTERVIEW END TIME	 4:30PM
+INTERVIEW DATE	January 24th, 2024	INTERVIEW START TIME	3:50 PM	INTERVIEW END TIME	 4:30 PM
 
 DESCRIPTION OF PROJECT
 Consider the familiar login screen where a user begins access to a system. What atomic requirements can be generated?
 
 
-1. Understanding User Authentication: Can you describe the typical process you envision for a user logging into the system? What are the key steps and user interactions you expect during this process?
-Ans:
+1. Understanding User Authentication: Can you describe the typical process you want for a user logging into the system? 
+Ans: Just a simple username and password and possibly a background image or visualization can be implemented in the future. There should be a way to verify the user is valid. Email can be used to verify the user is valid. confirm the password by retyping to confirm it.
 
 
 
 
 
- 2. Security Considerations: Regarding securing user data, particularly credentials like User IDs and Passwords, what are your primary concerns or requirements? How do you currently handle sensitive information in your existing systems?
-Ans:
+ 2. Security Considerations: Regarding securing user data, particularly credentials like User IDs and Passwords, How do you want us to handle sensitive information in your existing systems?
+Ans: No encryption should be implemented. just a file frontend and backend that we can store a file using javascript to handle the sensitive information.
 
 
 
 
 
-3. Handling Login Failures: How would you like the system to respond when a user fails to log in? Are there specific procedures or steps you envision for scenarios like repeated login failures or account lockouts?
-Ans:
+3. Handling Login Failures: How would you like the system to respond when a user fails to log in?
+Ans: So there should be consequences in which no more than at most 5 attempts are allowed for the user to try logging in on a particular day. incorrect username is not the main issue but the main issue is the incorrect password. After 5 failed attempts in one day, the user should be blocked permanently. show the prompt to what error is being displayed.
 
 
 
 
-4. System Behavior and User Experience: What is your expectation regarding the system’s response time and behavior after a user login or if a login attempt fails? For instance, is there a specific timeframe in which the login screen should remain active or timeout?
-Ans:
+4. System Behavior and User Experience: What is your expectation regarding the system’s response time and behavior after a user login or if a login attempt fails?
+Ans: There should be a timeout if users don't log in after a minute.
 
 
 
 
 
-5. Related Functionalities and Integration: Apart from the basic login functionality, are there any related features or integrations (like user administration or password reset processes) that are important for your organization? Can you elaborate on how you see these integrating with the login process?
-Ans:
+5. Related Functionalities and Integration: Apart from the basic login functionality, are there any related features or integrations you want us to add?
+Ans: The user should get a message or alert when there is a wrong username or password. when there is a correct username and password there should be a redirect to a new web page saying logging is successful.
 
 
 
 6. Artistic Style: Apart from the technical aspects of the login requirements, how do you envision your screen to look? What color schemes do you want? Do you want a specific logo or login box style? Or do you want it to be minimalistic and basic?
-Ans:
+Ans: keep it simple for now which styles and images can be implemented for now. JSON format for now
 
 
