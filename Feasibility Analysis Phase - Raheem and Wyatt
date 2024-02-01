@@ -1,47 +1,28 @@
 Name: Raheem Lewis And Wyatt Bush
 
-Feasibility Analysis: After you gather all the requirements now it is the time for feasibility analysis for the project.
-You need to analyze all the four different types of feasibility as shown below. 
+Feasibility Analysis: After you gather all the requirements, it is time for a feasibility analysis of the project.
+You need to analyze all four different types of feasibility as shown below. 
 Assume the following to facilitate the process of feasibility analysis
-Assume use of Node.js and MongoDB is a requirement from the customer. 
+Assume the use of Node.js and MongoDB is a requirement from the customer. 
 
-You also learned that the project needs to be finished in 10days. 
+You also learned that the project needs to be finished in 10 days. 
 
-1)	For technical feasibility, write a small paragraph explaining your current knowledge on Node.JS/MongoDB. 
+1)	For technical feasibility, write a small paragraph explaining your current knowledge of Node. JS/MongoDB. 
 What are all the challenges/solutions are you suspecting?
-Ans: Node.js is a powerful JavaScript runtime that is known for its ability to handle asynchronous operations with a non-blocking I/O model. 
-It is ideal for building scalable server-side applications. When paired with MongoDB, a NoSQL database that is flexible in handling large 
-volumes of unstructured data with a schema-less design, it can be used to create robust applications. However, using Node.js and MongoDB 
-together can be challenging. Some of the challenges include designing efficient data structures in MongoDB's flexible schema, mastering 
-asynchronous programming in Node.js, and ensuring scalability and security in the application. These challenges can be addressed by using 
-effective data modeling in MongoDB, which can be achieved using tools like Mongoose for schema definition. It is also important to embrace
-modern JavaScript features like async/await to simplify asynchronous code in Node.js and to consider a microservices architecture for 
-scalability. Additionally, adhering to security best practices such as regular updates, secure database connections, and robust input
-validation is crucial to ensure application integrity.
+Ans: (Be done in the context of project login requirements)
 
 2)	For schedule feasibility, again write a small paragraph explaining your ideas. Is it possible to be productive by learning? 
 If you think it is not possible, can you finish it by hiring another extra developer with prior knowledge of these technologies?
-Ans: When it comes to schedule feasibility, the success of a project that uses Node.js and MongoDB technology greatly depends on 
-the proficiency level of the team handling these technologies. While learning on the job can be productive, it might slow down 
-the initial progress of the project as the team members climb the learning curve. This delay could be critical, especially when 
-the project timeline is tight. In such situations, it is advisable to hire an additional developer who has prior experience in 
-Node.js and MongoDB. An experienced developer can not only speed up development but also mentor other team members, 
-thereby enhancing the overall skill level of the team. This approach can effectively balance the need for immediate progress 
-with the long-term benefits of upskilling the team, ensuring both immediate and future project success.
+Ans: (Be done in the context of project login requirements)
 
 3)	For operational feasibility, write another short paragraph explaining whether you need training on all these topics. 
 Explain with the lowest cost Node.js training whatever you get in Udemy. 
-Ans: For operational feasibility, training is required depending on the current skill level of the team regarding Node.js and MongoDB. 
-If the team is relatively inexperienced with these technologies, training could be highly beneficial. It ensures that team members have
-a solid foundation and common understanding, which is crucial for the efficient development and maintenance of the project. 
-Udemy is an excellent resource for cost-effective training. It offers a wide range of courses on Node.js, often at a low cost,
-especially during sales or with coupons. These courses typically cover fundamental concepts and practical applications, 
-and sometimes even integrate MongoDB, providing a comprehensive learning experience. By investing in such affordable training, 
-the team can rapidly acquire the necessary skills, improving the project’s operational feasibility without incurring significant costs.
+Ans: (Be done in the context of project login requirements)
 
-4)	For economic feasibility, assume the following: 
-a.	The customer would like to spend no more than $30K USD.
-b.	You have 2 members in a group each of them needs to be paid at a rate of an average Node.js developer salary 
+
+4)	For economic feasibility, assume the following: (Good Check by Professor)
+a.	The customer wants to spend no more than $30K USD.
+b.	You have 2 members in a group each of them needs to be paid at a rate of an average Node.js developer's salary 
 ($113K per year as shown in Google). You need to calculate the developer cost for 10 days.
 Ans: The cost for 2 Node.js developers for 10 days with an average annual salary of 113K is approximately $6,200. 
 c.	You have two different options for hardware. 
