@@ -9,7 +9,7 @@ Consider the familiar login screen where a user begins access to a system. What 
 
 
 1. Understanding User Authentication: Can you describe the typical process you want for a user logging into the system? 
-Ans: Just a simple username and password and possibly a background image or visualization can be implemented in the future. There should be a way to verify the user is valid. Email can be used to verify the user is valid. confirm the password by retyping to confirm it.
+Ans: Just a simple username and password and possibly a background image or visualization can be implemented in the future. There should be a way to verify the user is valid. Email can be used to verify the user is valid. confirm the password by retyping to confirm it. The password should be at least 8 chars long with at least 1 capital letter, 1 lowercase letter, 1 number, and 1 special character. The username must be at least 4 characters long and only contain lowercase letters and must have an underscore. If a login is sucessful just show a new page with login sucessful. If blocked after 5 attempts flag saying that the account is blocked.
 
 
 
