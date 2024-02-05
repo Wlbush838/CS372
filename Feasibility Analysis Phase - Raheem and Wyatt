@@ -20,11 +20,23 @@ practices can help prioritize essential features, ensuring the project meets its
 
 2)	For schedule feasibility, again write a small paragraph explaining your ideas. Is it possible to be productive by learning? 
 If you think it is not possible, can you finish it by hiring another extra developer with prior knowledge of these technologies?
-Ans: (Be done in the context of project login requirements)
+Ans: (Be done in the context of project login requirements)Considering the stringent 10-day deadline and the project’s reliance on Node.js and 
+MongoDB, assessing schedule feasibility hinges on the team’s current proficiency with these technologies. If the team lacks in-depth experience, 
+the learning curve could severely hinder timely completion, making self-learning impractical within this tight timeframe. Therefore, hiring an 
+additional developer with expertise in Node.js and MongoDB emerges as a strategic move to ensure the project’s on-schedule delivery. 
+An experienced developer can directly address the project’s specific requirements, such as implementing secure login features, thereby 
+significantly reducing development time and increasing the likelihood of meeting the deadline. This approach not only bolsters the project’s 
+technical foundation but also allocates existing resources more effectively, ensuring that the project adheres to its schedule without 
+compromising on quality or functionality.
 
 3)	For operational feasibility, write another short paragraph explaining whether you need training on all these topics. 
 Explain with the lowest cost Node.js training whatever you get in Udemy. 
-Ans: (Be done in the context of project login requirements)
+Ans: (Be done in the context of project login requirements)Given the project’s tight timeline and specific requirements for Node.js and MongoDB,
+operational feasibility hinges on the team’s ability to quickly adapt and implement these technologies. Considering the low cost and accessibility 
+of Node.js training available on Udemy, it’s feasible to upskill the team rapidly if gaps in knowledge exist. However, the most cost-effective 
+approach to ensure project delivery within 10 days while addressing operational challenges, such as implementing secure login features, would be 
+to prioritize hiring or leveraging existing team members with the requisite expertise. This strategy minimizes the need for extensive training, 
+thus ensuring operational efficiency and project success within the given constraints.
 
 
 4)	For economic feasibility, assume the following: (Good Check by Professor)
