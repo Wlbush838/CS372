@@ -9,7 +9,11 @@ Consider the familiar login screen where a user begins access to a system. What 
 
 
 1. Understanding User Authentication: Can you describe the typical process you want for a user logging into the system? 
-Ans: The typical process for user authentication involves the user entering their credentials, such as a username and password, into the system. The system then verifies these credentials against stored data. If the credentials match, access is granted. The password should be at least 8 chars long with at least 1 capital letter, 1 lowercase letter, 1 number, and 1 special character. The username must be at least 4 characters long and only contain lowercase letters and must have an underscore. If a login is sucessful just show a new page with login sucessful. If blocked after 5 attempts flag saying that the account is blocked.
+Ans: The typical process for user authentication involves the user entering their credentials, such as a username and password, into the system.
+The system then verifies these credentials against stored data. If the credentials match, access is granted. 
+The password should be at least 8 chars long with at least 1 capital letter, 1 lowercase letter, 1 number, and 1 special character. 
+The username must be at least 4 characters long and only contain lowercase letters and must have an underscore. 
+If a login is sucessful just show a new page with login sucessful. If blocked after 5 attempts flag saying that the account is blocked.
 
 
  2. Security Considerations: Regarding securing user data, particularly credentials like User IDs and Passwords, How do you want us to handle sensitive information in your existing systems?
@@ -17,7 +21,9 @@ Ans: No encryption should be implemented. just a file frontend and backend that 
 
 
 3. Handling Login Failures: How would you like the system to respond when a user fails to log in?
-Ans: So there should be consequences in which no more than at most 5 attempts are allowed for the user to try logging in on a particular day. incorrect username is not the main issue but the main issue is the incorrect password. After 5 failed attempts in one day, the user should be blocked permanently. show the prompt to what error is being displayed.
+Ans: So there should be consequences in which no more than at most 5 attempts are allowed for the user to try logging in on a particular day. 
+Incorrect username is not the main issue but the main issue is the incorrect password. After 5 failed attempts in one day, the user should be blocked permanently. 
+show the prompt to what error is being displayed.
 
 
 4. System Behavior and User Experience: What is your expectation regarding the system’s response time and behavior after a user login or if a login attempt fails?
@@ -26,11 +32,13 @@ Ans: There should be a timeout if users don't log in after a minute.
 
 
 5. Related Functionalities and Integration: Apart from the basic login functionality, are there any related features or integrations you want us to add?
-Ans: The user should get a message or alert when there is a wrong username or password. when there is a correct username and password there should be a redirect to a new web page saying logging is successful.
+Ans: The user should get a message or alert when there is a wrong username or password. when there is a correct username and password there should be a redirect to a 
+new web page saying logging is successful.
 
 
 
-6. Artistic Style: Apart from the technical aspects of the login requirements, how do you envision your screen to look? What color schemes do you want? Do you want a specific logo or login box style? Or do you want it to be minimalistic and basic?
+6. Artistic Style: Apart from the technical aspects of the login requirements, how do you envision your screen to look? What color schemes do you want? Do you want a 
+specific logo or login box style? Or do you want it to be minimalistic and basic?
 Ans: keep it simple for now which styles and images can be implemented for now. JSON format for now
 
 
