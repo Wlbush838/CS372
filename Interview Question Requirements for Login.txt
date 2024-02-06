@@ -9,7 +9,7 @@ Consider the familiar login screen where a user begins access to a system. What 
 
 
 1. Understanding User Authentication: Can you describe the typical process you want for a user logging into the system? 
-Ans: The typical process for user authentication involves the user entering their credentials, such as a username and password, into the system. The system then verifies these credentials against stored data. If the credentials match, access is granted. Secure systems often include additional steps like CAPTCHAs to prevent automated attacks, and may also employ multi-factor authentication (MFA) for added security, requiring users to provide one or more additional verification factors beyond just a password, such as a code sent to their mobile device.
+Ans: The typical process for user authentication involves the user entering their credentials, such as a username and password, into the system. The system then verifies these credentials against stored data. If the credentials match, access is granted. The password should be at least 8 chars long with at least 1 capital letter, 1 lowercase letter, 1 number, and 1 special character. The username must be at least 4 characters long and only contain lowercase letters and must have an underscore. If a login is sucessful just show a new page with login sucessful. If blocked after 5 attempts flag saying that the account is blocked.
 
 
  2. Security Considerations: Regarding securing user data, particularly credentials like User IDs and Passwords, How do you want us to handle sensitive information in your existing systems?
